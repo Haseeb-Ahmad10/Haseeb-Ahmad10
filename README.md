@@ -3,7 +3,7 @@
 - Now i'm fully comitted in Technology and Innovation trying to create comfort for the people by writing efficient code.
 - Fun Fact: i love to read safarnama so if u know something great u can recommend me.
 
-- ### Connect with me
+ - ### Connect with me
   <p align="center">
  <a href="https://www.linkedin.com/in/haseeb-ahmad-640b81213/">
   <img src="https://img.shields.io/badge/linkedin-Haseeb%20Ahmad-blue?style=flat-square&logo=linkedin">
@@ -14,7 +14,7 @@
 </p>
 
 
-- ### 🛠️ My Stack
+ ### 🛠️ My Stack
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
