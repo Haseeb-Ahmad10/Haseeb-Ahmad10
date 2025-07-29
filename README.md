@@ -1,9 +1,9 @@
-- # 👋 Welcome to my Coding Hub.
+ # 👋 Welcome to my Coding Hub.
 - I'm a systems Engineer, wanted to be a Professional Footballer but somehow landed in Technology realm.
 - Now i'm fully comitted in Technology and Innovation trying to create comfort for the people by writing efficient code.
 - Fun Fact: i love to read safarnama so if u know something great u can recommend me.
 
- - ### Connect with me
+  ### Connect with me
   <p align="center">
  <a href="https://www.linkedin.com/in/haseeb-ahmad-640b81213/">
   <img src="https://img.shields.io/badge/linkedin-Haseeb%20Ahmad-blue?style=flat-square&logo=linkedin">
