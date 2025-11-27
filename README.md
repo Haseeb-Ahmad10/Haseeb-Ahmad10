@@ -14,7 +14,7 @@
 </p>
 
 
- ## 🛠️ My Stack
+ # 🛠️ My Stack
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node JS](https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logo=nodedotjs) 
